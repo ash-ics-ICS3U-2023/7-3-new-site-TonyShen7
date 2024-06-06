@@ -1,0 +1,25 @@
+html {
+    margin: 20px;
+  }
+  
+  body {
+    background-color: beige;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+    border: 2.5px solid #CD4D44;
+  
+    padding-left: 1.875rem;
+  }
+  
+  h1 {
+    color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.75em;
+  }
+  
+  #lazy_squirrel {
+    width: 30%;
+    border: 5px solid darkred;
+    border-radius: 10px;
+  }
+  
